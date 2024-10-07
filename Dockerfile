@@ -1,5 +1,5 @@
 # syntax=docker/dockerfile:1
-
+# Update code
 FROM node:18-alpine
 WORKDIR /app
 COPY . .
